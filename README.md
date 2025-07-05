@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gt732-nautobot-app-mcp-badge.png)](https://mseep.ai/app/gt732-nautobot-app-mcp)
+
 # ⚠️ Repository Archived
 
 This project is no longer maintained or updated. I am archiving this repository due to limited time and bandwidth to continue development.
